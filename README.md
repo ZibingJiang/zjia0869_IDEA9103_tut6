@@ -7,4 +7,7 @@
 
 ### Technical links
 [Link Text](https://editor.p5js.org/codingtrain/sketches/KTVfEcpWx)
+![Technical_ASCII_1](https://drive.google.com/file/d/1KmLcLeblKIy0gDnCIlyAZ9PPw_OEICPY/view?usp=sharing)
+![Technical_ASCII_2](https://drive.google.com/file/d/1q8M477ZvJIxAWRijmC0-maS3Be2vFFTw/view?usp=drive_link)
+
 
