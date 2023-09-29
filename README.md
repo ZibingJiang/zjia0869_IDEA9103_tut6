@@ -5,7 +5,7 @@
 ![The Matrix 2003_2](https://github.com/ZibingJiang/readmeImages/blob/main/2.jpg)
 #### I found the ASCII text-to-image technology to achieve the above imaging effect. This technology is achieved by converting pexels in the picture into text. This technology can be linked to the camera, which means that this effect can not only change the style of the artwork, but may also be used to create human images. Interaction with the picture, for example, people can push elements in the artwork.
 
-#### Technical links
+#### Technical code link
 [Link Text](https://editor.p5js.org/codingtrain/sketches/KTVfEcpWx)
 
 ![Technical_ASCII_1](https://github.com/ZibingJiang/readmeImages/blob/main/3.png)
